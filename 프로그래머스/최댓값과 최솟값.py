@@ -1,5 +1,4 @@
 def solution(s):
-    index = 0
     list = []
     num = ''
     for i in s:
